@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Nirbhay+Patel;Java+Backend+Developer;B.Tech+Student;Building+Real+World+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Himanshu+Singh;full stack Developer;B.Tech+Student;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
 
-# 💫 Hi 👋, I'm Nirbhay Patel
+# 💫 Hi 👋, I'm Himanshu Singh
 
 Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-📧 **Email:** [nirbhaynby01@gmail.com](mailto:nirbhaynby01@gmail.com)
+📧 **Email:** [hs3455862@gmail.com](mailto:hs3455862@gmail.com)
 💬 Open for **Collaboration / Projects / Tech Discussions**
 
 ---
@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech Student passionate about **Software Development**
-* 💻 Focused on **Java Backend Development**
+* 💻 Focused on **Ful stack  Development**
 * 🚀 Building **real-world backend projects**
 * 📚 Learning **Data Structures & Algorithms**
 * 🤝 Open for **collaboration and open-source projects**
@@ -23,8 +23,7 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/nirbhaynby)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:nirbhaynby01@gmail.com)
+
 
 ---
 
@@ -48,14 +47,14 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-- 🔭 **I’m currently working on:** Java backend project
+- 🔭 **I’m currently working on:** FUll Stack developement project
 - 🌱 **I’m currently learning:** java backend for app developement
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** nirbhaynby01@gmail.com
-- 😄 **Pronouns:** Nirbhay Sir
+- 📫 **How to reach me:** hs3455862@gmail.com
+- 😄 **Pronouns:** Himanshu Sir
 - ⚡ **Fun fact:** I Love code and code Love Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirbhaynby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirbhaynby01@gmail.com) 
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -64,7 +63,7 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-* 🔥 Mastering **Java Backend Development**
+* 🔥 Mastering **Full stack Development**
 * 🌐 Building **Web Applications**
 * 🧠 Improving **Problem Solving Skills**
 * ☁️ Exploring **Cloud Deployment**
@@ -73,28 +72,27 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NirbhayNBY&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=NirbhayNBY\&show_icons=true\&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=DevHimanshuSingh&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=DevHimanshuSingh\&show_icons=true\&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=NirbhayNBY\&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=DevHimanshuSingh\&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirbhayNBY\&layout=compact\&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHimanshuSingh\&layout=compact\&theme=dark)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Nirbhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirbhayNBY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f778ba&area=true)](https://github.com/NirbhayNBY)
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevHimanshuSingh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f778ba&area=true)](https://github.com/DevHimanshuSingh)
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=NirbhayNBY&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=DevHimanshuSingh&theme=dark)
 ## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirbhayNBY&layout=compact&theme=dark)
-🔹 Java Backend API
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHimanshuSingh&layout=compact&theme=dark)
+🔹 Fronted and Backend developement
 🔹 Portfolio Website
-🔹 AI Voice Assistant
 🔹 Full Stack Web Application
 
 <!-- Snake Game Repo View -->
@@ -102,7 +100,7 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=NirbhayNBY\&color=blue)
+![](https://komarev.com/ghpvc/?username=DevHimanshuSingh\&color=blue)
 
 ---
 
@@ -122,9 +120,8 @@ Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Any
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![](https://visitcount.itsvg.in/api?id=NirbhayNBY&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevHimanshuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nby_Nirbhay?theme=dark&font=baloo&ext=heatmap)
 ## ⭐ Support
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
