@@ -110,8 +110,6 @@ Email Me 👉 ✉️ **hs3455862@gmail.com** For Collaboration/Project or Anythi
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### 🔝 Top Contributed Repo
