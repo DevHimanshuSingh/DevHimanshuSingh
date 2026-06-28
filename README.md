@@ -4,7 +4,7 @@
 
 # 💫 Hi 👋, I'm Himanshu Singh
 
-Email Me 👉 ✉️ **nirbhaynby01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **hs3455862@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 📧 **Email:** [hs3455862@gmail.com](mailto:hs3455862@gmail.com)
 💬 Open for **Collaboration / Projects / Tech Discussions**
 
